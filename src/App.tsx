@@ -9,7 +9,7 @@ import { Treatment } from "./components/treatment";
 
 export function App() {
   return (
-    <div className="min-h-full ">
+    <div className="min-h-full">
       <Header />
       <main>
         <Hero />
