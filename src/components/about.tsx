@@ -1,7 +1,7 @@
 
 export function About() {
   return (
-    <div className=" p-16 bg-stone-300 max-w-7xl mx-auto flex justify-around items-center rounded-md gap-10 max-sm:flex-col ">
+    <article className=" p-16 bg-stone-300 max-w-7xl mx-auto flex justify-around items-center rounded-md gap-10 max-sm:flex-col ">
 
       <img className="rounded-full border-2 border-stone-200" src={"./picture.jpeg"} width={250} height={250} alt="author photo" />
 
@@ -19,7 +19,7 @@ export function About() {
           </div>
         </div>
       </div>
-    </div>
+    </article>
 
   )
 }
