@@ -9,16 +9,7 @@ export function Footer() {
           <h3 className="">Karen Santana - Especialista em Estrias</h3>
           <span className="text-xs">Transformando sua pele, elevando sua autoestima.</span>
         </div>
-
-
-
-
-
-
-
         <span className="underline text-xs text-stone-500 ">@2025 Karen Santana. Todos os direitos reservados.</span>
-
-
       </div>
     </footer>
   )
