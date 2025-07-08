@@ -4,7 +4,7 @@ export function Results() {
   return (
     <article className="p-16 bg-stone-300 max-w-7xl mx-auto flex justify-around items-center flex-col rounded-md gap-10 max-sm:flex-col">
       <h2 className="font-bold text-2xl text-center"> Cada estria tem uma cor. E nós temos o tratamento certo para cada uma!</h2>
-      <div className="flex items-center justify-center gap-6 max-sm:flex-col">
+      <div className="flex justify-center gap-6 w-full max-lg:flex-wrap">
         <div className="flex flex-col items-center justify-center gap-3 shadow-2xl rounded-lg overflow-hidden w-64 h-80  ">
           <img src={"/estrias-bra.png"} className="object-cover w-full h-full" />
           <p className="font-bold text-sm uppercase">Branca</p>
