@@ -18,7 +18,7 @@ export function Results() {
           <p className="font-bold text-sm uppercase">Marrom</p>
         </div>
         <div className="flex flex-col items-center justify-center gap-3 shadow-2xl rounded-lg overflow-hidden w-64 h-80 ">
-          <img src={"/estrias-marron.png"} className="object-cover w-full h-full" />
+          <img src={"/estrias-roxa.png"} className="object-cover w-full h-full" />
           <p className="font-bold text-sm uppercase">Roxa</p>
         </div>
 
